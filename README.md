@@ -42,13 +42,11 @@ And voilà! You’re all set.
 - **Simplicity:** A straightforward ANN model that’s easy to use and integrate.
 - **Accuracy:** Built on robust historical data to ensure reliable forecasts.
 - **Portability:** Save and load the model effortlessly, anywhere, anytime.
+- If you want even more accurate or extended future predictions, you can import your own historical forecast data in .csv format and retrain the model. Just load your data, run the training script, and use the newly trained model.
 
 ## 📂 Project Structure
 
 - **notebooks/**: Contains the trained model `Weather_Nostradamus.keras` and Jupyter notebooks with our development and testing processes.
-- **data/**: Historical weather data used for training and validation.
-- **src/**: Core source code for preprocessing, training, and evaluation.
-- If you want even more accurate or extended future predictions, you can import your own historical forecast data in .csv format and retrain the model. Just load your data, run the training script, and use the newly trained model.
 
 ---
 
